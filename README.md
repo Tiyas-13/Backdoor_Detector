@@ -11,7 +11,9 @@ Response to Lab 4 Assignment for ML for Cybersecurity, NYU Tandon School of Engi
 1. The dataset can be downloaded from this link: https://drive.google.com/drive/folders/1Rs68uH8Xqa4j6UxG53wzD0uyI8347dSq
 
 In the ipynb file here, I have stored the data in a google drive. 
-For local use, the data can be stored in the data folder. Please change the path at code indicated by the commented lines in the ipynb file
+For local use, the data can be stored in the data folder. 
+The original BadNet models are present in the models folder. In my code I have used a link from Google Drive.
+Please change the path for all necessary files indicated by the commented lines in the ipynb file. 
 
 2. Google Colab comes pre-installed with the necessary dependencies, however to run elsewhere, please install the following modules using pip:
 ```
