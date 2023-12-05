@@ -1,3 +1,6 @@
+## Backdoor Detector in Neural Network using Pruning
+
+Response to Lab 4 Assignment for ML for Cybersecurity, NYU Tandon School of Engineering, Fall 2023
 ### Main Solution
 
 - ```backdoor_detector.ipynb``` contains the code to create the GoodNet network and evaluate defense against the Youtube Face dataset
